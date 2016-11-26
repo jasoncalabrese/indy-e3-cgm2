@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "system_time": "2016-11-26T04:56:13", 
+    "display_time": "2016-11-25T20:56:42", 
+    "sgv": -1, 
+    "dateString": "2016-11-25T20:56:42", 
+    "date": 1480136202000.0, 
+    "unfiltered": 125376, 
+    "filtered": 122240, 
+    "device": "openaps://indy-e3/cgm", 
+    "rssi": 436, 
+    "type": "sgv"
+  }
+]
