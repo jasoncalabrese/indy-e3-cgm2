@@ -14,21 +14,5 @@
     "filtered": 146720, 
     "type": "sgv", 
     "glucose": 142
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "display_time": "2016-11-28T07:40:18-08:00", 
-    "noise": 1, 
-    "direction": "FortyFiveUp", 
-    "system_time": "2016-11-28T15:39:47-08:00", 
-    "sgv": 135, 
-    "dateString": "2016-11-28T07:40:18-08:00", 
-    "device": "openaps://indy-e3/cgm", 
-    "unfiltered": 151904, 
-    "rssi": 161, 
-    "date": 1480347618000.0, 
-    "filtered": 140128, 
-    "type": "sgv", 
-    "glucose": 135
   }
 ]
