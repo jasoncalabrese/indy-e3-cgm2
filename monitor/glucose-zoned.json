@@ -1,6 +1,22 @@
 [
   {
     "trend_arrow": "NOT_COMPUTABLE", 
+    "display_time": "2016-12-06T17:49:57-08:00", 
+    "noise": 1, 
+    "direction": "NOT COMPUTABLE", 
+    "system_time": "2016-12-07T01:49:23-08:00", 
+    "sgv": 153, 
+    "dateString": "2016-12-06T17:49:57-08:00", 
+    "device": "openaps://indy-e3/cgm", 
+    "unfiltered": 186208, 
+    "rssi": 184, 
+    "date": 1481075397000.0, 
+    "filtered": 178656, 
+    "type": "sgv", 
+    "glucose": 153
+  }, 
+  {
+    "trend_arrow": "NOT_COMPUTABLE", 
     "display_time": "2016-12-06T17:44:57-08:00", 
     "noise": 1, 
     "direction": "NOT COMPUTABLE", 
