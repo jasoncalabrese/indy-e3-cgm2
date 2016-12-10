@@ -8,11 +8,23 @@
     "display_time": "2016-12-09T16:04:50", 
     "date": 1481328290000.0, 
     "dateString": "2016-12-09T16:04:50", 
+    "unfiltered": 132192, 
+    "filtered": 124048, 
+    "device": "openaps://indy-e3/cgm", 
+    "rssi": 162, 
+    "type": "sgv", 
+    "glucose": 91
+  }, 
+  {
+    "system_time": "2016-12-10T00:04:16", 
+    "display_time": "2016-12-09T16:04:49", 
+    "sgv": -1, 
+    "dateString": "2016-12-09T16:04:49", 
+    "date": 1481328289000.0, 
     "unfiltered": 116416, 
     "filtered": 108736, 
     "device": "openaps://indy-e3/cgm", 
     "rssi": 675, 
-    "type": "sgv", 
-    "glucose": 91
+    "type": "sgv"
   }
 ]

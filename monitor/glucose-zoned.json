@@ -8,11 +8,23 @@
     "sgv": 91, 
     "dateString": "2016-12-09T16:04:50-08:00", 
     "device": "openaps://indy-e3/cgm", 
-    "unfiltered": 116416, 
-    "rssi": 675, 
+    "unfiltered": 132192, 
+    "rssi": 162, 
     "date": 1481328290000.0, 
-    "filtered": 108736, 
+    "filtered": 124048, 
     "type": "sgv", 
     "glucose": 91
+  }, 
+  {
+    "system_time": "2016-12-10T00:04:16-08:00", 
+    "dateString": "2016-12-09T16:04:49-08:00", 
+    "sgv": -1, 
+    "display_time": "2016-12-09T16:04:49-08:00", 
+    "device": "openaps://indy-e3/cgm", 
+    "unfiltered": 116416, 
+    "rssi": 675, 
+    "date": 1481328289000.0, 
+    "filtered": 108736, 
+    "type": "sgv"
   }
 ]
