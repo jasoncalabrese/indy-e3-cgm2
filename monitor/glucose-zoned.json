@@ -9,7 +9,7 @@
     "dateString": "2016-12-10T12:45:51-08:00", 
     "device": "openaps://indy-e3/cgm", 
     "unfiltered": 4294967295, 
-    "rssi": 16563, 
+    "rssi": 16572, 
     "date": 1481402751000.0, 
     "filtered": 4294967295, 
     "type": "sgv", 
@@ -25,27 +25,35 @@
     "dateString": "2016-12-10T12:40:51-08:00", 
     "device": "openaps://indy-e3/cgm", 
     "unfiltered": 4294967295, 
-    "rssi": 16581, 
+    "rssi": 16563, 
     "date": 1481402451000.0, 
     "filtered": 4294967295, 
     "type": "sgv", 
     "glucose": 141
   }, 
   {
-    "trend_arrow": "SINGLE_UP", 
-    "display_time": "2016-12-10T12:35:51-08:00", 
-    "noise": 1, 
-    "direction": "SingleUp", 
-    "system_time": "2016-12-10T20:35:16-08:00", 
-    "sgv": 123, 
-    "dateString": "2016-12-10T12:35:51-08:00", 
+    "system_time": "2016-12-10T20:55:15-08:00", 
+    "dateString": "2016-12-10T12:55:50-08:00", 
+    "sgv": -1, 
+    "display_time": "2016-12-10T12:55:50-08:00", 
+    "device": "openaps://indy-e3/cgm", 
+    "unfiltered": 4294967295, 
+    "rssi": 16581, 
+    "date": 1481403350000.0, 
+    "filtered": 4294967295, 
+    "type": "sgv"
+  }, 
+  {
+    "system_time": "2016-12-10T20:50:15-08:00", 
+    "dateString": "2016-12-10T12:50:50-08:00", 
+    "sgv": -1, 
+    "display_time": "2016-12-10T12:50:50-08:00", 
     "device": "openaps://indy-e3/cgm", 
     "unfiltered": 4294967295, 
     "rssi": 16582, 
-    "date": 1481402151000.0, 
+    "date": 1481403050000.0, 
     "filtered": 4294967295, 
-    "type": "sgv", 
-    "glucose": 123
+    "type": "sgv"
   }, 
   {
     "system_time": "2016-12-10T20:45:15-08:00", 
@@ -69,18 +77,6 @@
     "rssi": 16572, 
     "date": 1481402450000.0, 
     "filtered": 114976, 
-    "type": "sgv"
-  }, 
-  {
-    "system_time": "2016-12-10T20:35:15-08:00", 
-    "dateString": "2016-12-10T12:35:51-08:00", 
-    "sgv": -1, 
-    "display_time": "2016-12-10T12:35:51-08:00", 
-    "device": "openaps://indy-e3/cgm", 
-    "unfiltered": 126128, 
-    "rssi": 16818, 
-    "date": 1481402151000.0, 
-    "filtered": 99056, 
     "type": "sgv"
   }
 ]
