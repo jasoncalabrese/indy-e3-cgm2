@@ -23,11 +23,11 @@
     "direction": "DoubleUp", 
     "sgv": 152, 
     "dateString": "2016-12-10T12:45:51-08:00", 
-    "date": 1481402751000, 
-    "unfiltered": 153024, 
-    "filtered": 132320, 
     "device": "openaps://indy-e3/cgm", 
+    "unfiltered": 153024, 
     "rssi": 16582, 
+    "date": 1481402751000, 
+    "filtered": 132320, 
     "type": "sgv", 
     "glucose": 152
   }
