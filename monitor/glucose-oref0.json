@@ -1,6 +1,22 @@
 [
   {
     "trend_arrow": "FLAT", 
+    "system_time": "2016-12-18T20:23:51", 
+    "noise": 1, 
+    "direction": "Flat", 
+    "sgv": 89, 
+    "display_time": "2016-12-18T12:24:28", 
+    "date": 1482092668000.0, 
+    "dateString": "2016-12-18T12:24:28", 
+    "unfiltered": 102640, 
+    "filtered": 103488, 
+    "device": "openaps://indy-e3/cgm", 
+    "rssi": 164, 
+    "type": "sgv", 
+    "glucose": 89
+  }, 
+  {
+    "trend_arrow": "FLAT", 
     "system_time": "2016-12-18T20:18:51", 
     "noise": 1, 
     "direction": "Flat", 
