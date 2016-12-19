@@ -7,24 +7,12 @@
     "direction": "Flat", 
     "sgv": 135, 
     "dateString": "2016-12-18T08:24:29-08:00", 
-    "date": 1482078269000, 
-    "unfiltered": 153248, 
-    "filtered": 146560, 
     "device": "openaps://indy-e3/cgm", 
+    "unfiltered": 153248, 
     "rssi": 438, 
+    "date": 1482078269000, 
+    "filtered": 146560, 
     "type": "sgv", 
     "glucose": 135
-  }, 
-  {
-    "display_time": "2016-12-18T20:24:27-08:00", 
-    "system_time": "2016-12-19T04:23:50-08:00", 
-    "dateString": "2016-12-18T20:24:27-08:00", 
-    "device": "openaps://indy-e3/cgm", 
-    "unfiltered": 159520, 
-    "rssi": 439, 
-    "date": 1482121467000, 
-    "filtered": 149088, 
-    "sgv": -1, 
-    "type": "sgv"
   }
 ]
