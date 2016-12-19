@@ -30,21 +30,5 @@
     "rssi": 175, 
     "type": "sgv", 
     "glucose": 100
-  }, 
-  {
-    "trend_arrow": "45_DOWN", 
-    "system_time": "2016-12-19T00:43:51", 
-    "noise": 1, 
-    "direction": "FortyFiveDown", 
-    "sgv": 106, 
-    "display_time": "2016-12-18T16:44:28", 
-    "date": 1482108268000.0, 
-    "dateString": "2016-12-18T16:44:28", 
-    "unfiltered": 123456, 
-    "filtered": 132544, 
-    "device": "openaps://indy-e3/cgm", 
-    "rssi": 441, 
-    "type": "sgv", 
-    "glucose": 106
   }
 ]
