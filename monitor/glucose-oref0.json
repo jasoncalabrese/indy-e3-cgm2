@@ -1,18 +1,18 @@
 [
   {
-    "trend_arrow": "FLAT", 
-    "system_time": "2017-07-01T21:04:28", 
+    "trend_arrow": "NOT_COMPUTABLE", 
+    "system_time": "2017-07-01T21:34:28", 
     "noise": 1, 
-    "direction": "Flat", 
-    "sgv": 91, 
-    "display_time": "2017-07-01T15:16:42", 
-    "date": 1498947402000.0, 
-    "dateString": "2017-07-01T15:16:42", 
-    "unfiltered": 116720, 
-    "filtered": 121968, 
+    "direction": "NOT COMPUTABLE", 
+    "sgv": 80, 
+    "display_time": "2017-07-01T15:46:42", 
+    "date": 1498949202000.0, 
+    "dateString": "2017-07-01T15:46:42", 
+    "unfiltered": 107152, 
+    "filtered": 109568, 
     "device": "openaps://indy-e3/cgm", 
-    "rssi": 192, 
+    "rssi": 184, 
     "type": "sgv", 
-    "glucose": 91
+    "glucose": 80
   }
 ]
